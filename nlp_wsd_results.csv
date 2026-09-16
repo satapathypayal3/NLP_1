@@ -1,0 +1,5 @@
+Sentence,FinancialScore,RiverScore,PredictedMeaning
+"I went to the bank to deposit money.",3,1,Financial institution
+"The children played near the bank of the river.",1,2,River bank
+"She opened a new bank account.",2,1,Financial institution
+"We sat on the bank and watched the water.",1,2,River bank

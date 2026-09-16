@@ -1,0 +1,5 @@
+Model,Perplexity,ModelType
+Unigram,80.0042,Statistical
+Bigram,41.3541,Statistical
+Trigram,47.1618,Statistical
+Neural LSTM,1.2900,Neural

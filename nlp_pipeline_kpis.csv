@@ -1,0 +1,13 @@
+Metric,Value
+Documents,3
+Total Sentences,14
+Vocabulary Size,61
+Training Tokens,77
+Testing Tokens,20
+Unique Unigrams,47
+Unique Bigrams,66
+Unique Trigrams,72
+Best Statistical Model,Bigram
+Best Statistical Perplexity,41.3541
+Neural Perplexity,1.29
+Neural Training Accuracy,0.9593

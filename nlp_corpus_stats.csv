@@ -1,0 +1,5 @@
+Stage,TokenCount
+Raw Tokens,156
+After Punctuation Removal,137
+After Stopword Removal,97
+Final Vocabulary Size,61
