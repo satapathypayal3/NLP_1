@@ -1,0 +1,5 @@
+Machine learning allows computers to learn patterns from data.
+Language models are an important application of machine learning.
+A language model predicts the probability of words in a sentence.
+Statistical language models use probabilities to predict the next word.
+Neural language models use neural networks to learn complex language patterns.

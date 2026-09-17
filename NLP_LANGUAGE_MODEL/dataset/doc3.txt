@@ -1,0 +1,5 @@
+Text preprocessing is an important step in natural language processing.
+It includes tokenization, normalization, stop word removal, and lemmatization.
+Good preprocessing can improve the performance of an NLP system.
+Spelling errors can make language processing more difficult.
+Context is useful for resolving ambiguity in natural language.
